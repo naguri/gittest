@@ -1,3 +1,10 @@
+void add()
+{
+a+b;
+}
+void ADD()
+{
+}
 import java.io.*;
 class add
 {
